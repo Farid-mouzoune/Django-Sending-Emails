@@ -1,4 +1,4 @@
-# Django Sending Emails
+# Django Sending-Emails
 
 - Django is an open-source framework for backend web applications 
 
@@ -7,6 +7,6 @@
            If you are building a website with django framework this repo will show you the structure & how to send emails to your users.
 
 - Simple Mail Transfer Protocol (SMTP) is the technology that allows emails to be sent 
-      from one server to another until they are delivered to your mailbox 
+      from one server to another until they are delivered to your mailbox .
 
 
