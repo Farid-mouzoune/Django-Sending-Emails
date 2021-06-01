@@ -1,4 +1,4 @@
-# Django-Sending-Emails
+# Django Sending Emails
 
 - Django is an open-source framework for backend web applications 
 
